@@ -9,6 +9,11 @@ Soy egresada de la Tecnicatura Universitaria en Programación en la UTN FRSR, es
 ![](https://github-readme-streak-stats.herokuapp.com/?user=repogiu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=repogiu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 📫 Connect with me:
+<a href="mailto:giulygael2018@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=repogiu&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
 
